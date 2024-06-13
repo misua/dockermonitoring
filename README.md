@@ -18,3 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
+
+![tested with vegetta](https://github.com/misua/dockermonitoring/blob/main/dockerist/1.png)
+![dockering](https://github.com/misua/dockermonitoring/blob/main/dockerist/2.png)
+![inodes](https://github.com/misua/dockermonitoring/blob/main/dockerist/3.png)
+![nodeXporter](https://github.com/misua/dockermonitoring/blob/main/dockerist/4.png)
