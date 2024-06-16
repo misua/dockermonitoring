@@ -9,7 +9,8 @@ services:
       - 9090:9090
     restart: unless-stopped
     volumes:
-      - /home/sab/prometheus/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - /home/sab/dockermonitoring/prometheus/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
       - prom_data:/prometheus
+
 volumes:
-  prom_data:
+  prom_data: {}
